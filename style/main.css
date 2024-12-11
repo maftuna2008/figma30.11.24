@@ -453,14 +453,108 @@ a {
 .luma {
   display: flex;
   gap: 135px;
-  padding-left: 115px;
-  padding-top: 40px; 
+  padding-left: 40px;
+  padding-top: 115px;
 }
-.consulting{
+
+.consulting {
   font-family: Roboto;
-font-size: 32px;
-font-weight: 400;
-line-height: 35.2px;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 35.2px;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.mural {
+  display: flex;
+  justify-content: space-between;
+  margin: 94px 55px;
+}
+
+.lorem1 {
+  width: 138px;
+  height: 5px;
+  background-color: #FFED87;
+
+}
+
+.lorem2 {
+  width: 112px;
+  height: 5px;
+  background-color: #FFCEE0;
+}
+
+.lorem3 {
+  width: 73px;
+  height: 5px;
+  background-color: #B4F5C8;
+}
+
+.lorem4 {
+  width: 168px;
+  height: 5px;
+  background-color: #E6BFFF;
+}
+
+.consulting {
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 35.2px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+/* .section */
+.system {
+  display: flex;
+  gap: 32px;
+  margin-left: 40px;
+  margin-top: 96px;
+}
+
+.help {
+  width: 448px;
+  height: 56px;
+  top: 5160px;
+  left: 40px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.count11 {
+  width: 276px;
+  height: 3px;
+  top: 5318.17px;
+  left: 520px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #00c27a;
+}
+
+.src {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.count111 {
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-top: 25px;
+  margin-bottom: 3px;
 }
