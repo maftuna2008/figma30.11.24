@@ -323,7 +323,6 @@ a {
   position: relative;
   top: -105px;
   left: -80px;
-
 }
 
 .imegess1 {
@@ -347,7 +346,7 @@ a {
   left: 600px;
   gap: 0px;
   opacity: 0px;
-  background-color: #BE53FF;
+  background-color: #be53ff;
   margin-left: 375px;
 }
 
@@ -374,7 +373,7 @@ a {
   width: 400px;
   height: 200px;
   background-color: #000000;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 19px;
   font-weight: 400;
   line-height: 30px;
@@ -409,7 +408,7 @@ a {
 .kind {
   width: 1200px;
   height: 588px;
-  background-color: #EDEDDB;
+  background-color: #ededdb;
 }
 
 .lorem {
@@ -419,7 +418,7 @@ a {
   left: 61.19px;
   gap: 0px;
   opacity: 0px;
-  background-color: #BED7FF;
+  background-color: #bed7ff;
 }
 
 .of {
@@ -447,7 +446,6 @@ a {
   text-align: left;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
-
 }
 
 .luma {
@@ -475,26 +473,25 @@ a {
 .lorem1 {
   width: 138px;
   height: 5px;
-  background-color: #FFED87;
-
+  background-color: #ffed87;
 }
 
 .lorem2 {
   width: 112px;
   height: 5px;
-  background-color: #FFCEE0;
+  background-color: #ffcee0;
 }
 
 .lorem3 {
   width: 73px;
   height: 5px;
-  background-color: #B4F5C8;
+  background-color: #b4f5c8;
 }
 
 .lorem4 {
   width: 168px;
   height: 5px;
-  background-color: #E6BFFF;
+  background-color: #e6bfff;
 }
 
 .consulting {
@@ -524,7 +521,6 @@ a {
   left: 40px;
   gap: 0px;
   opacity: 0px;
-
 }
 
 .count11 {
@@ -557,4 +553,269 @@ a {
   text-decoration-skip-ink: none;
   margin-top: 25px;
   margin-bottom: 3px;
+}
+.become {
+  width: 736px;
+  height: 1px;
+  background-color: #000000;
+}
+.aligin {
+  display: flex;
+  align-items: center;
+  gap: 138px;
+}
+.clear {
+  width: 476px;
+  height: 60px;
+  top: 5452px;
+  left: 680px;
+  gap: 0px;
+  opacity: 0px;
+  text-align: left;
+}
+/* .adapt1{
+  display: flex;
+} */
+.bacrround {
+  width: 48px;
+  height: 48px;
+  border-radius: 4px;
+  background-image: url("../imeges/Rectangle\ \(14\).png");
+  z-index: 3;
+}
+.bacrround1 {
+  width: 345px;
+  height: 48px;
+  border-radius: 4px;
+  background-image: url("../imeges/Rectangle\ \(13\).png");
+  margin-left: -50px;
+}
+.learn {
+  display: flex;
+}
+.ppp1 {
+  padding: 17px;
+}
+.hhw {
+  padding-top: 11px;
+  padding-left: 72px;
+}
+/* .section */
+.sap {
+  width: 1200px;
+  height: 674px;
+  background-color: #ededdb;
+  display: flex;
+  gap: 189px;
+}
+.top {
+  font-family: Roboto;
+  font-size: 63px;
+  font-weight: 400;
+  line-height: 70.4px;
+  letter-spacing: 1.2799999713897705px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.how1 {
+  display: flex;
+}
+.long {
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 70.4px;
+  letter-spacing: 1.2799999713897705px;
+  text-align: left;
+}
+.after {
+  width: 483px;
+  height: 144px;
+  font-size: 24px;
+  margin-top: 31px;
+  margin-bottom: 46px;
+}
+.sap1 {
+  margin-left: 40px;
+  padding-top: 96px;
+}
+.imeges-txt {
+  width: 110px;
+  height: 71px;
+}
+.bacround2 {
+  width: 48px;
+  height: 48px;
+  border-radius: 4px;
+  background-color: #be53ff;
+  padding: 17px;
+  z-index: 4;
+}
+.bacround3 {
+  width: 198px;
+  height: 48px;
+  border-radius: 4px;
+  background-color: #e6bfff;
+  padding-top: 11px;
+  padding-left: 72px;
+  margin-left: -30px;
+}
+.bactound4 {
+  display: flex;
+}
+.sap2 {
+  padding-top: 226px;
+}
+/* .section */
+.makes {
+  display: flex;
+  /* gap: 82px; */
+  margin-top: 18px;
+}
+.support {
+  width: 736px;
+  height: 1px;
+  background-color: #000000;
+}
+.work1 {
+  width: 352px;
+  height: 352px;
+}
+.control {
+  width: 512px;
+  height: 60px;
+  font-size: 19px;
+  margin-left: -110px;
+}
+.security {
+  display: flex;
+}
+.on {
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35.2px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.enterprise {
+  font-family: Roboto;
+  font-size: 59px;
+  font-weight: 400;
+  line-height: 70.4px;
+  letter-spacing: 1.2799999713897705px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  width: 887px;
+  height: 141px;
+}
+.lock {
+  margin-top: 92px;
+  margin-left: 40px;
+  margin-bottom: 93px;
+}
+.data {
+  width: 48px;
+  height: 48px;
+  border-radius: 4px;
+  background-color: #5887ff;
+  padding: 17px;
+  margin-right: -50px;
+  z-index: 3;
+}
+.data1 {
+  width: 265px;
+  height: 48px;
+  border-radius: 4px;
+  background-color: #bed7ff;
+  padding-top: 13px;
+  padding-left: 72px;
+}
+.about {
+  display: flex;
+  margin-top: 46px;
+  margin-bottom: 97px;
+}
+.onn {
+  width: 716px;
+  height: 63px;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-bottom: 95px;
+}
+/* .section */
+.better {
+  width: 1200px;
+  height: 886px;
+  background-color: #fc83ff;
+}
+.for11 {
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 35.2px;
+  letter-spacing: 0.6399999856948853px;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  padding-top: 189px;
+  margin-bottom: 98px;
+  text-align: center;
+}
+.back {
+  width: 40px;
+  height: 371px;
+  background-color: #000000;
+  z-index: 2;
+  margin-right: -30px;
+}
+.started {
+  width: 875px;
+  height: 371px;
+  border-radius: 18px;
+  background-color: #ffe146;
+  padding-top: 88px;
+  padding-left: 128px;
+}
+.content {
+  display: flex;
+  margin-left: 163px;
+}
+.started {
+  font-size: 103px;
+  font-weight: 400;
+  line-height: 195px;
+  letter-spacing: 6.5px;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.product {
+  width: 1200px;
+  height: 682px;
+  background-color: #ededdb;
+}
+/* .foter */
+.link1 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #000000;
+}
+.ul1{
+  display: flex;
+  justify-content: space-between;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top:80px;
+  padding-bottom:28px;
 }
